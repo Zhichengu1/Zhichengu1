@@ -3,7 +3,7 @@
 - I am currently working on [StonyBrook_GPA_calculator](https://github.com/Zhichengu1/StonyBrook_GPA_Calculator) and [chatter_bot](https://github.com/Zhichengu1/Little_ChatterBot)
 - 🌱 I’m currently learning web development and software development.
 
-Vibing to music daily, coding become friendly.
+Vibing to music daily, coding becomes friendly. ^.^
 
 ![%](https://github.com/Zhichengu1/Zhichengu1/blob/main/vibing-vibe.gif)
 <!---
