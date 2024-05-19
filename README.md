@@ -2,7 +2,7 @@
 
 I am a undergraduate student studying at Stony Brook University.
 - 👀 I’m interested in software development and machine learning.
-- I am currently working on [StonyBrook_GPA_calculator](https://github.com/Zhichengu1/StonyBrook_GPA_Calculator) and [chatter_bot](https://github.com/Zhichengu1/Little_ChatterBot)
+- I am currently working on [StonyBrook_GPA_calculator](https://github.com/Zhichengu1/StonyBrook_GPA_Calculator) and [chatter_bot](https://github.com/Zhichengu1/Little_ChatterBot).
 - 🌱 I’m currently learning web development and software development.
 
 Vibing to music daily, coding becomes friendly. ^.^
