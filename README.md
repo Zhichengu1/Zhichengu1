@@ -1,6 +1,5 @@
 👋 Hi, I’m Zhicheng Yu
 
-I am a undergraduate student studying at Stony Brook University.
 - 👀 I’m interested in software development and machine learning.
 - I am currently working on [chatter_bot](https://github.com/Zhichengu1/Little_ChatterBot).
 - 🌱 I’m currently learning web development and software development.
