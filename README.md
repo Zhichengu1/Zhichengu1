@@ -2,6 +2,7 @@
 
 - I am currently working on [chatter_bot](https://github.com/Zhichengu1/chatbot.git).
 - 🌱 I’m currently learning web development and software development.
+- **undergraduate student at hunter**
 
 Vibing to music daily, coding becomes friendly. ^.^
 
