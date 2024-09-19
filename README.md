@@ -1,7 +1,7 @@
 👋 Hi, I’m Zhicheng Yu
 
 - 👀 I’m interested in software development and machine learning.
-- I am currently working on [chatter_bot](https://github.com/Zhichengu1/Chatbot).
+- I am currently working on [chatter_bot](https://github.com/Zhichengu1/chatbot.git).
 - 🌱 I’m currently learning web development and software development.
 
 Vibing to music daily, coding becomes friendly. ^.^
