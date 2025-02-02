@@ -1,6 +1,6 @@
 👋 Hi, I’m Zhicheng Yu
 
-- I am currently working on [chatter_bot](https://github.com/Zhichengu1/chatbot.git).
+- I am currently working on [chatter_bot](https://github.com/Zhichengu1/Torch_Bot).
 - 🌱 I’m currently learning web and software development.
 - **undergraduate student at hunter**
 
