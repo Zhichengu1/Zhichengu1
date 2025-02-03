@@ -1,8 +1,8 @@
 👋 Hi, I’m Zhicheng Yu
 
-- I am currently working on [chatter_bot](https://github.com/Zhichengu1/Torch_Bot).
-- 🌱 I’m currently learning web and software development.
-- **Undergraduate Student at hunter**
+- I Am Currently Working On [Torch-Bot](https://github.com/Zhichengu1/Torch_Bot).
+- 🌱 I’m Currently Learning Web and Software Development.
+- **Undergraduate Student At Hunter College**
 
 Vibing to music daily, coding becomes friendly. ^.^
 
