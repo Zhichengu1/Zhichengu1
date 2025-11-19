@@ -1,7 +1,7 @@
 👋 Hi, I’m Zhicheng Yu
 
 - I Am Currently Working On [Movie-Review-Sentiment-Analysis](https://github.com/Zhichengu1/Movie-Review-Sentiment-Analysis).
-- 🌱 I’m Currently Learning Web and Software Development.
+- 🌱 I’m Currently Learning Full Stack Development and ML.
 - **Undergraduate Student At Hunter College**
 
 Vibing to music daily, coding becomes friendly. ^.^
