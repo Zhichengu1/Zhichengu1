@@ -19,9 +19,12 @@
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=Zhichengu1&rank_icon=github&show_icons=true&theme=tokyonight#gh-dark-mode-only" alt="Zhichengu1's GitHub stats-Dark" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zhichengu1&theme=tokyonight&show_icons=true&layout=compact&langs_count=5" alt="Top Langs" />
+  ## 🚀 Zhicheng Yu's GitHub Stats
+
+![Zhicheng Yu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zhichengu1&rank_icon=github&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zhichengu1&theme=tokyonight&show_icons=true&layout=compact&langs_count=5)
+
   
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zhichengu1&theme=tokyonight&hide_border=true)
 
