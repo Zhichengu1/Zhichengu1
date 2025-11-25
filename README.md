@@ -14,7 +14,9 @@
 🎵 Vibing to music daily, coding becomes friendly ^.^
 
 ---
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Zhichengu1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
 
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Zhichengu1&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 ## 📊 GitHub Stats
 
 <div align="center">
