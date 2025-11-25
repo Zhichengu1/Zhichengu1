@@ -12,6 +12,7 @@
 💻 Currently Working on [Movie Review Sentiment Analysis](https://github.com/Zhichengu1/Movie-Review-Sentiment-Analysis)  
 🌱 Learning **Full Stack Development** and **Machine Learning**  
 🎵 Vibing to music daily, coding becomes friendly ^.^
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zhichengu1&theme=tokyonight&show_icons=true&layout=compact&langs_count=5)
 
 ---
 
