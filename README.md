@@ -29,12 +29,6 @@
   <img src="https://streak-stats.demolab.com/?user=Zhichengu1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  
-  <!-- GitHub Contribution Graph -->
-  <img src="https://ghchart.rshah.org/2E9FFF/Zhichengu1" alt="GitHub Contribution Chart" width="100%"/>
-  
-</div>
 
 <!-- Alternative Stats (Uncomment if above doesn't work) -->
 
