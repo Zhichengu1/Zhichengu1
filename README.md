@@ -12,7 +12,9 @@
 💻 Currently Working on [Movie Review Sentiment Analysis](https://github.com/Zhichengu1/Movie-Review-Sentiment-Analysis)  
 🌱 Learning **Full Stack Development** and **Machine Learning**  
 🎵 Vibing to music daily, coding becomes friendly ^.^
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zhichengu1&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zhichengu1&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zhichengu1&theme=tokyonight"/>
 ---
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Zhichengu1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
 
