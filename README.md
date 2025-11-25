@@ -72,8 +72,6 @@ NLP and ML project analyzing sentiment in movie reviews with classification mode
 
 <div align="center">
   
-![Profile Views](https://komarev.com/ghpvc/?username=Zhichengu1&color=blueviolet&style=flat-square)
-
 **Thanks for visiting! ⭐**
 
 </div>
