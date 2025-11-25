@@ -5,7 +5,7 @@
 </div>
 
 ---
-
+<img src="https://streak-stats.demolab.com/?user=Zhichengu1&theme=tokyonight&hide_border=true"/>
 ## 🚀 About Me
 
 🎓 **Undergraduate Student at Hunter College**  
