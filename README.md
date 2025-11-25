@@ -19,11 +19,9 @@
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zhichengu1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
   
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zhichengu1&theme=tokyonight&hide_border=true)
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zhichengu1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 </div>
 
