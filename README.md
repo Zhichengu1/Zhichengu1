@@ -62,14 +62,6 @@ NLP and ML project analyzing sentiment in movie reviews with classification mode
 
 ---
 
-## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zhicheng-yu)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Zhichengu1)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
----
-
 <div align="center">
   
 **Thanks for visiting! ⭐**
