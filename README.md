@@ -27,9 +27,6 @@
   
   <!-- GitHub Streak Stats -->
   <img src="https://streak-stats.demolab.com/?user=Zhichengu1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zhichengu1&theme=tokyonight"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zhichengu1&theme=tokyonight"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zhichengu1&theme=tokyonight"/>
 </div>
 
 <div align="center">
