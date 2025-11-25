@@ -21,10 +21,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zhichengu1&theme=tokyonight"/>
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Zhichengu1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
 ---
 
 ## 💻 Tech Stack
