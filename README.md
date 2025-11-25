@@ -53,15 +53,6 @@
 
 ---
 
-## 🔥 Featured Project
-
-### 🎬 [Movie Review Sentiment Analysis](https://github.com/Zhichengu1/Movie-Review-Sentiment-Analysis)
-NLP and ML project analyzing sentiment in movie reviews with classification models for positive, negative, and neutral sentiments.
-
-**Tech:** Python • Scikit-learn • NLTK • Pandas • NumPy
-
----
-
 <div align="center">
   
 **Thanks for visiting! ⭐**
