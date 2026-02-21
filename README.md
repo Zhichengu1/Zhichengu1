@@ -6,7 +6,6 @@
 
 ## 🚀 About Me
 
-🎓 **Undergraduate Student at Hunter College**  
 💻 Currently Working on [Movie Review Sentiment Analysis](https://github.com/Zhichengu1/Movie-Review-Sentiment-Analysis)  
 🌱 Learning **Full Stack Development** and **Machine Learning**  
 🎵 Vibing to music daily, coding becomes friendly ^.^
