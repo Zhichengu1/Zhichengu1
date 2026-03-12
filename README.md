@@ -1,9 +1,4 @@
 # 👋 Hi, I'm Zhicheng Yu
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9FFF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Machine+Learning+Enthusiast;Hunter+College+Student;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
-</div>
-
 ## 🚀 About Me
 
 I’m a Computer Science student passionate about **Full-Stack Development, Machine Learning, and System Design**. I enjoy building scalable applications that connect intelligent ML models with reliable backend systems and modern web interfaces. My focus is on writing clean, efficient code and designing systems that solve real-world problems. I’m always learning, experimenting with new technologies, and pushing myself to build better software.
