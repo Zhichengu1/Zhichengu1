@@ -1,4 +1,3 @@
-# 👋 Hi, I'm Zhicheng Yu
 ## 🚀 About Me
 
 I’m a Computer Science student passionate about **Full-Stack Development, Machine Learning, and System Design**. I enjoy building scalable applications that connect intelligent ML models with reliable backend systems and modern web interfaces. My focus is on writing clean, efficient code and designing systems that solve real-world problems. I’m always learning, experimenting with new technologies, and pushing myself to build better software.
