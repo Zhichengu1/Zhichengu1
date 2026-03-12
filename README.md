@@ -6,16 +6,9 @@
 
 ## 🚀 About Me
 
-💻 Computer Science student at **Hunter College** passionate about building impactful software.
+I’m a Computer Science student passionate about **Full-Stack Development, Machine Learning, and System Design**. I enjoy building scalable applications that connect intelligent ML models with reliable backend systems and modern web interfaces. My focus is on writing clean, efficient code and designing systems that solve real-world problems. I’m always learning, experimenting with new technologies, and pushing myself to build better software.
 
-🔧 My primary interests include **Full-Stack Development, Machine Learning, and System Design**, where I enjoy designing scalable applications, building intelligent systems, and solving complex problems through code.
-
-⚙️ I work across the stack — from developing robust backend systems to creating machine learning models that power real-world applications.
-
-🌱 Currently expanding my skills through projects that combine **modern web technologies, data-driven solutions, and scalable architecture**.
-
-🎯 My goal is to grow as a software engineer while contributing to meaningful and innovative technology.
-
+🎧 *“Vibing to music daily — coding becomes friendly.”*
 ---
 
 ## 📊 GitHub Stats
