@@ -6,9 +6,15 @@
 
 ## 🚀 About Me
 
-💻 Currently Working on [Movie Review Sentiment Analysis](https://github.com/Zhichengu1/Movie-Review-Sentiment-Analysis)  
-🌱 Learning **Full Stack Development** and **Machine Learning**  
-🎵 Vibing to music daily, coding becomes friendly ^.^
+💻 Computer Science student at **Hunter College** passionate about building impactful software.
+
+🔧 My primary interests include **Full-Stack Development, Machine Learning, and System Design**, where I enjoy designing scalable applications, building intelligent systems, and solving complex problems through code.
+
+⚙️ I work across the stack — from developing robust backend systems to creating machine learning models that power real-world applications.
+
+🌱 Currently expanding my skills through projects that combine **modern web technologies, data-driven solutions, and scalable architecture**.
+
+🎯 My goal is to grow as a software engineer while contributing to meaningful and innovative technology.
 
 ---
 
