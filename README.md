@@ -27,10 +27,6 @@ I'm a Computer Science student passionate about **Full-Stack Development, Machin
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=Zhichengu1&theme=tokyonight&hide_border=true"/>
 </div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zhichengu1&rank_icon=github&show_icons=true&theme=tokyonight&hide_border=true"/>
-</div>
-
 ---
 
 ## 💻 Tech Stack
