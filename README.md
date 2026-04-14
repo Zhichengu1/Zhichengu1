@@ -25,8 +25,9 @@ I'm a Computer Science student passionate about **Full-Stack Development, Machin
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zhichengu1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zhichengu1&layout=compact&theme=tokyonight&hide_border=true"/>
+<!--START_SECTION:activity-->
+1. ❗ Opened issue [#1](https://github.com/Zhichengu1/Movie-Review-Sentiment-Analysis/issues/1) in [Zhichengu1/Movie-Review-Sentiment-Analysis](https://github.com/Zhichengu1/Movie-Review-Sentiment-Analysis)
+<!--END_SECTION:activity-->
 </div>
 
 <div align="center">
@@ -78,13 +79,7 @@ I'm a Computer Science student passionate about **Full-Stack Development, Machin
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:70a5fd,100:1a1b27&height=80&section=footer"/>
 </div>
-## 📈 Activity
-
-<!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/Zhichengu1/Movie-Review-Sentiment-Analysis/issues/1) in [Zhichengu1/Movie-Review-Sentiment-Analysis](https://github.com/Zhichengu1/Movie-Review-Sentiment-Analysis)
-<!--END_SECTION:activity-->
 ---
