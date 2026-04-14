@@ -1,46 +1,131 @@
-## 🚀 About Me
-
-I’m a Computer Science student passionate about **Full-Stack Development, Machine Learning, and System Design**. I enjoy building scalable applications that connect intelligent ML models with reliable backend systems and modern web interfaces. My focus is on writing clean, efficient code and designing systems that solve real-world problems. I’m always learning, experimenting with new technologies, and pushing myself to build better software.
-
-🎧 *“Vibing to music daily — coding becomes friendly.”*
----
-
-## 📊 GitHub Stats
-
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zhichengu1&theme=tokyonight"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zhichengu1&theme=tokyonight"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zhichengu1&theme=tokyonight"/>
+
+<!-- Header Banner -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zhichengu1/Zhichengu1/main/assets/header-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/Zhichengu1/Zhichengu1/main/assets/header-light.svg" width="100%" alt="Zhicheng Gu"/>
+</picture>
+
 </div>
 
----
+<div align="center">
 
-## 💻 Tech Stack
+<!-- Divider -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zhichengu1/Zhichengu1/main/assets/divider-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/Zhichengu1/Zhichengu1/main/assets/divider-light.svg" width="100%" alt=""/>
+</picture>
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+</div>
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<div align="center">
 
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+<!-- Bio Card -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zhichengu1/Zhichengu1/main/assets/bio-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/Zhichengu1/Zhichengu1/main/assets/bio-light.svg" width="100%" alt="Bio"/>
+</picture>
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+</div>
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<div align="center">
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zhichengu1/Zhichengu1/main/assets/divider-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/Zhichengu1/Zhichengu1/main/assets/divider-light.svg" width="100%" alt=""/>
+</picture>
+
+</div>
+
+## &nbsp;Built With
+
+<div align="center">
+
+**`LANGUAGES`**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,js,java,cpp,html,css&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=py,js,java,cpp,html,css&theme=light" alt="Languages"/>
+</picture>
+
+**`FRONTEND & BACKEND`**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nodejs,express,flask,tailwind&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,tailwind&theme=light" alt="Frameworks"/>
+</picture>
+
+**`DATA & ML`**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=tensorflow,sklearn,pandas,numpy&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pandas,numpy&theme=light" alt="ML"/>
+</picture>
+
+**`DATABASES & TOOLS`**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mysql,postgres,git,vscode,linux,jupyter&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,git,vscode,linux,jupyter&theme=light" alt="Tools"/>
+</picture>
+
+</div>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zhichengu1/Zhichengu1/main/assets/divider-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/Zhichengu1/Zhichengu1/main/assets/divider-light.svg" width="100%" alt=""/>
+</picture>
+
+</div>
+
+## &nbsp;Stats
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Zhichengu1&theme=tokyonight&hide_border=true&background=1a1b27&ring=7aa2f7&fire=ff9e64&currStreakLabel=c0caf5&sideLabels=9aa5ce&dates=565f89" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Zhichengu1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=ff9e64&text_color=c0caf5" width="49%"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zhichengu1&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=c0caf5" width="40%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Zhichengu1&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=ff9e64&area=true&area_color=414868&hide_border=true)](https://github.com/Zhichengu1)
+
+</div>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zhichengu1/Zhichengu1/main/assets/divider-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/Zhichengu1/Zhichengu1/main/assets/divider-light.svg" width="100%" alt=""/>
+</picture>
+
+</div>
+
+<details>
+<summary>🎵 Playlist</summary>
+<br>
+
+> *"Vibing to music daily — coding becomes friendly."*
+
+`Lofi Hip Hop` &nbsp;·&nbsp; `Chill Synthwave` &nbsp;·&nbsp; `Jazz` &nbsp;·&nbsp; `City Pop` &nbsp;·&nbsp; `Lo-fi Beats`
+
+</details>
+
+<div align="center">
+
+<!-- Footer -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zhichengu1/Zhichengu1/main/assets/footer-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/Zhichengu1/Zhichengu1/main/assets/footer-light.svg" width="100%" alt="Footer"/>
+</picture>
+
+</div>
