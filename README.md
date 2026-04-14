@@ -43,4 +43,6 @@ I’m a Computer Science student passionate about **Full-Stack Development, Mach
 ![Jupyter](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 ---
