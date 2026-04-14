@@ -42,7 +42,15 @@ I’m a Computer Science student passionate about **Full-Stack Development, Mach
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+## 📈 Activity
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zhichengu1&theme=tokyo-night&hide_border=true&area=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zhichengu1&theme=tokyonight&hide_border=true"/>
+</div>
 <!--START_SECTION:activity-->
 1. ❗ Opened issue [#1](https://github.com/Zhichengu1/Movie-Review-Sentiment-Analysis/issues/1) in [Zhichengu1/Movie-Review-Sentiment-Analysis](https://github.com/Zhichengu1/Movie-Review-Sentiment-Analysis)
 <!--END_SECTION:activity-->
