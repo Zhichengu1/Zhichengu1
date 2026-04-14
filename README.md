@@ -25,17 +25,21 @@ I'm a Computer Science student passionate about **Full-Stack Development, Machin
 ## 📊 GitHub Stats
 
 <div align="center">
-<!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/Zhichengu1/Movie-Review-Sentiment-Analysis/issues/1) in [Zhichengu1/Movie-Review-Sentiment-Analysis](https://github.com/Zhichengu1/Movie-Review-Sentiment-Analysis)
-<!--END_SECTION:activity-->
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zhichengu1&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zhichengu1&theme=tokyo-night&hide_border=true&area=true"/>
+</div>
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+<!--START_SECTION:activity-->
+1. ❗ Opened issue [#1](https://github.com/Zhichengu1/Movie-Review-Sentiment-Analysis/issues/1) in [Zhichengu1/Movie-Review-Sentiment-Analysis](https://github.com/Zhichengu1/Movie-Review-Sentiment-Analysis)
+<!--END_SECTION:activity-->
 </div>
 
 ---
