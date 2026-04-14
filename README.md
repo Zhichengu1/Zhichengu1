@@ -33,15 +33,10 @@ I'm a Computer Science student passionate about **Full-Stack Development, Machin
 </div>
 
 ---
-
 ## 📊 GitHub Events
 
-<div align="center">
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/Zhichengu1/Movie-Review-Sentiment-Analysis/issues/1) in [Zhichengu1/Movie-Review-Sentiment-Analysis](https://github.com/Zhichengu1/Movie-Review-Sentiment-Analysis)
 <!--END_SECTION:activity-->
-</div>
-
 ---
 
 ## 💻 Tech Stack
