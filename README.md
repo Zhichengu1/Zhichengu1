@@ -44,5 +44,6 @@ I’m a Computer Science student passionate about **Full-Stack Development, Mach
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 <!--START_SECTION:activity-->
+1. ❗ Opened issue [#1](https://github.com/Zhichengu1/Movie-Review-Sentiment-Analysis/issues/1) in [Zhichengu1/Movie-Review-Sentiment-Analysis](https://github.com/Zhichengu1/Movie-Review-Sentiment-Analysis)
 <!--END_SECTION:activity-->
 ---
