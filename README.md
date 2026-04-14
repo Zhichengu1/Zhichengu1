@@ -28,9 +28,6 @@ I'm a Computer Science student passionate about **Full-Stack Development, Machin
   <img src="https://streak-stats.demolab.com/?user=Zhichengu1&theme=tokyonight&hide_border=true"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zhichengu1&theme=tokyo-night&hide_border=true&area=true"/>
-</div>
 
 ---
 ## 📊 GitHub Events
