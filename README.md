@@ -34,7 +34,7 @@ I'm a Computer Science student passionate about **Full-Stack Development, Machin
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Events
 
 <div align="center">
 <!--START_SECTION:activity-->
