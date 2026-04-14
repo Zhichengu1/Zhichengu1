@@ -25,7 +25,7 @@ I'm a Computer Science student passionate about **Full-Stack Development, Machin
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zhichengu1&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com/?user=Zhichengu1&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div align="center">
