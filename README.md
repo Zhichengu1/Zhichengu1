@@ -30,11 +30,6 @@ I'm a Computer Science student passionate about **Full-Stack Development, Machin
 
 
 ---
-## 📊 GitHub Events
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
----
 
 ## 💻 Tech Stack
 
