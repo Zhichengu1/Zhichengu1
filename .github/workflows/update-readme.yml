@@ -18,3 +18,4 @@ jobs:
           GH_USERNAME: Zhichengu1
           COMMIT_MSG: "docs: update recent activity"
           MAX_LINES: 10
+          FILTER_EVENTS: PushEvent,IssueCommentEvent,IssuesEvent,PullRequestEvent,ReleaseEvent
