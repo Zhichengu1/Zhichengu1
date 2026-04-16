@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:70a5fd&height=120&section=header"/>
 </div>
 
-<h1 align="center">Hi, I'm Zhicheng 👋</h1>
+<h1 align="center">Hi, I'm Zhicheng</h1>
 
 <p align="center">
   <em>CS Student · Full-Stack Developer · ML Enthusiast</em>
