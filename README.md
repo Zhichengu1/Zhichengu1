@@ -68,6 +68,3 @@ I'm a Computer Science student passionate about **Full-Stack Development, Machin
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:70a5fd,100:1a1b27&height=80&section=footer"/>
-</div>
