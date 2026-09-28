@@ -3,7 +3,6 @@
 </div>
 
 <h1 align="center">Hi, I'm Zhicheng</h1>
----
 
 ## 🚀 About Me
 
