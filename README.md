@@ -3,15 +3,6 @@
 </div>
 
 <h1 align="center">Hi, I'm Zhicheng</h1>
-
-<p align="center">
-  <em>CS Student · Full-Stack Developer · ML Enthusiast</em>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&width=500&lines=Full-Stack+Development;Machine+Learning+%26+AI;System+Design;Always+learning+something+new+%F0%9F%9A%80"/>
-</p>
-
 ---
 
 ## 🚀 About Me
